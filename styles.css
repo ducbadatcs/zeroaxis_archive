@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+.info {
+	border: 5px dashed black;
+}
+
+
+/* use in chat and phone logs, characters */
+.martin {
+	font-weight: bold;
+	color: rgb(31, 31, 189);
+}
+
+.nuong {
+	font-weight: bold;
+	color: rgb(216, 20, 220);
+}
+
+.an {
+	font-weight: bold;
+	color: rgb(220, 29, 29);
+}
+
+/* literally anyone that isn't a remarkable character */
+.npc {
+	font-weight: bold;
+}
