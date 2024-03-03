@@ -18,6 +18,19 @@
 	text-align: center;
 }
 
+/* Basically same as ad, but without the background color, and less padding*/
+.news {
+	width: 400px;
+	border: 2px solid black;
+	padding: 50px;
+	text-align: center;
+}
+
+.email {
+	width: 400px;
+	border: 1px solid blue;
+	padding: 50px;
+}
 /* story narration */
 .info {
 	border: 5px dashed black;
