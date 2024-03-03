@@ -39,10 +39,17 @@
 	color: rgb(216, 20, 220);
 }
 
+.alice {
+	font-weight: bold;
+	color: rgb(124, 48, 223);
+}
+
 .an {
 	font-weight: bold;
 	color: rgb(220, 29, 29);
 }
+
+
 
 /* literally anyone that isn't a remarkable character */
 .npc {
