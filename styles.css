@@ -16,6 +16,7 @@
 	background-color: rgb(116, 167, 227);
 	padding: 50px;
 	text-align: center;
+	margin: 50px;
 }
 
 /* Basically same as ad, but without the background color, and less padding*/
@@ -24,12 +25,14 @@
 	border: 2px solid black;
 	padding: 50px;
 	text-align: center;
+	margin: 50px;
 }
 
 .email {
 	width: 400px;
 	border: 1px solid blue;
 	padding: 50px;
+	margin: 50px;
 }
 /* story narration */
 .info {
