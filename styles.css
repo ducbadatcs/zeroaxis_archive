@@ -5,9 +5,18 @@
 /* Table of content, use only on main site */
 .table-of-contents {
 	width: 200px;
-	background-color: silver;
+	border: 1px solid black;
+	background-color: rgb(226, 218, 218);
 }
 
+/* advertisement, use in various */
+.ad {	
+	width: 400px;
+	border: 2px solid black;
+	background-color: rgb(116, 167, 227);
+	padding: 50px;
+	text-align: center;
+}
 
 /* story narration */
 .info {
