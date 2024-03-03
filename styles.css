@@ -34,6 +34,13 @@
 	padding: 50px;
 	margin: 50px;
 }
+
+table {
+	width: 500px;
+	border: 1px solid black;
+}
+
+
 /* story narration */
 .info {
 	border: 5px dashed black;
