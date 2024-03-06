@@ -71,7 +71,7 @@ table, th, td{
 
 .thomas {
 	font-weight: bold;
-	color: rgb(47, 163, 47);
+	color: rgb(40, 146, 200);
 }
 
 .an {
@@ -79,6 +79,10 @@ table, th, td{
 	color: rgb(220, 29, 29);
 }
 
+.claire {
+	font-weight: bold;
+	color: rgb(92, 209, 92);
+}
 
 
 /* literally anyone that isn't a remarkable character */
