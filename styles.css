@@ -20,6 +20,10 @@
 	margin: 50px;
 }
 
+.dialogue {
+	width: 500px;
+}
+
 /* Basically same as ad, but without the background color, and less padding*/
 .news {
 	width: 400px;
@@ -72,6 +76,16 @@ table, th, td{
 .thomas {
 	font-weight: bold;
 	color: rgb(40, 146, 200);
+}
+
+.tien {
+	font-weight: bold;
+	color: rgb(15, 92, 92)
+}
+
+.louis {
+	font-weight: bold;
+	color: rgb(187, 165, 108)
 }
 
 .an {
