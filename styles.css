@@ -50,6 +50,7 @@ table, th, td{
 /* story narration */
 .info {
 	border: 5px dashed black;
+	width: 500px;
 }
 
 .narrator {
