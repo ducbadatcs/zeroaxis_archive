@@ -5,7 +5,7 @@
 
 /* Table of content, use only on main site */
 .table-of-contents {
-	width: 200px;
+	width: 500px;
 	border: 1px solid black;
 	background-color: rgb(226, 218, 218);
 }
@@ -18,10 +18,15 @@
 	padding: 50px;
 	text-align: center;
 	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.dialogue {
+
+
+.dialogue{
 	width: 500px;
+	margin: auto;
 }
 
 /* Basically same as ad, but without the background color, and less padding*/
@@ -31,6 +36,8 @@
 	padding: 50px;
 	
 	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .email {
@@ -38,12 +45,17 @@
 	border: 1px solid blue;
 	padding: 50px;
 	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 table, th, td{
 	width: 500px;
 	border: 1px solid black;
 	border-collapse: collapse;
+	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
@@ -51,6 +63,11 @@ table, th, td{
 .info {
 	border: 5px dashed black;
 	width: 500px;
+	text-align: center;
+	padding: 20px;
+	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .narrator {
