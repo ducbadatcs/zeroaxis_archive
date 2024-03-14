@@ -29,6 +29,11 @@
 	margin: auto;
 }
 
+h3 {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Basically same as ad, but without the background color, and less padding*/
 .news {
 	width: 400px;
